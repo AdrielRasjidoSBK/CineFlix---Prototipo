@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1606863697 source:c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<fstream>
+	"Includes/rlutil.h"
+	"Includes/visuales.h"
+	"Includes/declaraciones.h"
+	"Includes/Menues.h"
+	"Includes/Clases/cCalendario.h"
+	"Includes/Clases/cFactura.h"
+	"Includes/Clases/cCliente.h"
+	"Includes/Clases/cButacasXventas.h"
+	"Includes/Clases/cPelicula.h"
+	"Includes/Clases/cFuncion.h"
+	"Includes/Clases/cVenta.h"
+	"Includes/Clases/cSala.h"
+
+1603670624 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606846118 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\visuales.h
+
+1606801414 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\declaraciones.h
+
+1606863206 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\menues.h
+	"Clases/cSala.h"
+	"Clases/cPelicula.h"
+	"Clases/cFuncion.h"
+
+1606863789 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\csala.h
+	"cFuncion.h"
+
+1606863728 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\cfuncion.h
+	"cSala.h"
+	"cCalendario.h"
+	"cPelicula.h"
+
+1606793154 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\ccalendario.h
+
+1606856262 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\cpelicula.h
+
+1606793980 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\cfactura.h
+	"cCliente.h"
+	"cFuncion.h"
+
+1606858072 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\ccliente.h
+	"cFactura.h"
+
+1606859406 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\cbutacasxventas.h
+
+1605675196 c:\users\alan-\desktop\utn\laboratorio ii\03-cineflixmejunje\final\includes\clases\cventa.h
+
